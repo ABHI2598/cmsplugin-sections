@@ -1,4 +1,4 @@
-cmsplugin-sections
+cmsplugin-A one of Best Plugin for websites.
 ==================
 
 This is a plugin "system" (really just two) for making "single-page scroller"
